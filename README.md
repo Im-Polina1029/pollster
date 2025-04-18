@@ -6,6 +6,13 @@
 [![Django 4.0+](https://img.shields.io/badge/Django-4.0+-green.svg)](https://djangoproject.com)  
 [![MySQL 8.0+](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com)  
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="70" height="70"/>&nbsp;
+</div>
+
 ## 🔥 Основные возможности  
 - Создание опросов с различными типами вопросов  
 - Гибкая система авторизации пользователей  
