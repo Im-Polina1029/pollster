@@ -1,29 +1,39 @@
-# Pollster 📊  
+<div>
+  <img src="https://github.com/Im-Polina1029/pollster/blob/main/src/app/common_static/img/header.png">
+</div>
+
 **Современный многофункциональный отечественный сервис для создания и прохождения опросов**
 
 *Создавай - Узнавай - Анализируй*  
 
-<div align="center">
-  <img src="https://i.imgur.com/JqYe5qn.png" width="300" alt="Pollster Logo">
-</div>
-
 ## 🛠 Технологический стек
 
+### Основные технологии
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-%233776AB?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Django-4.0+-%23092E20?logo=django" alt="Django">
   <img src="https://img.shields.io/badge/MySQL-8.0+-%234479A1?logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker" alt="Docker">
   <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" title="RabbitMQ">
+### Все используемые технологии
+<div align="center" style="margin-top: 15px;">
+  <!-- Технологии с бейджами -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" title="Python 3.9+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="70" title="Django 4.0+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" title="MySQL 8.0+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" title="Docker">
+  
+  <!-- Технологии без бейджей -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="70" title="RabbitMQ">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" title="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="70" title="jQuery">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" width="70" title="Keras">
 </div>
 
 ## 🌟 Ключевые возможности
